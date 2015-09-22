@@ -1,0 +1,6 @@
+File_One was added, so it's staged 
+The_Status_File became staged, but as I wrote this, 
+it became modified, I'll need to add again, and then
+commit, after that, all the files will become unmodified.
+I'll end deleting this file, and it will become untracked, 
+so I'll need to add one more time, and then a last commit.
